@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  debug:
+  - apiVersion: v2
+    created: "2022-01-14T10:08:17.827996412Z"
+    digest: 06596f860af537f091d4d8931cb2593d58c784b401633f3754ef26be4283c02b
+    name: debug
+    urls:
+    - https://github.com/ciiiii/helm-charts/releases/download/debug-0.1.0/debug-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-14T10:08:17.675805672Z"
